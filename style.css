@@ -340,19 +340,19 @@ section .title::after {
   top: 0;
   background: #dd2c00;
 }
-.skills .skills-content .right .word::before {
+.skills .skills-content .right .office::before {
   width: 90%;
 }
-.skills .skills-content .right .excel::before {
-  width: 85%;
-}
-.skills .skills-content .right .visio::before {
-  width: 80%;
-}
-.skills .skills-content .right .ppt::before {
+.skills .skills-content .right .marketing::before {
   width: 70%;
 }
-.skills .skills-content .right .ps::before {
+.skills .skills-content .right .manufacturing::before {
+  width: 70%;
+}
+.skills .skills-content .right .ps&premier::before {
+  width: 60%;
+}
+.skills .skills-content .right .sap::before {
   width: 50%;
 }
 
