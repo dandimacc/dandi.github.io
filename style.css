@@ -342,7 +342,8 @@ section .title::after {
 }
 .skills .skills-content .right .office::before {
   width: 90%;
-}.skills .skills-content .right .visio::before {
+}
+.skills .skills-content .right .visio::before {
   width: 80%;
 }
 .skills .skills-content .right .marketing::before {
