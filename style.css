@@ -281,6 +281,51 @@ section .title::after {
   margin: 10px 0 7px 0;
 }
 
+/* porto section styling */
+.portofolio, .contact {
+  color: #fff;
+  background: #111;
+}
+.portofolio .title::before,
+.contact .title::before {
+  background: #fff;
+}
+.portofolio .title::after,
+.contact .title::after  {
+  background: #111;
+  content: 'during college';
+}
+.portofolio .porto-content .card {
+  width: calc(33% - 20px);
+  background: #222;
+  text-align: center;
+  border-radius: 6px;
+  padding: 20px 25px;
+  cursor: pointer;
+}
+.portofolio .porto-content .card:hover {
+  background: #dd2c00;
+}
+.portofolio .porto-content .card .box {
+  transition: all 0.3s ease;
+}
+.portofolio .porto-content .card i {
+  font-size: 50px;
+  color: #dd2c00;
+  transition: color 0.3s ease;
+}
+.portofolio .porto-content .card:hover i {
+  color: #fff;
+}
+.portofolio .porto-content .card:hover .box {
+  transform: scale(1.05);
+}
+.portofolio .porto-content .card .text {
+  font-size: 25px;
+  font-weight: 500;
+  margin: 10px 0 7px 0;
+}
+
 /* skills section styling */
 .skills .title::after {
   content: 'what i know';
