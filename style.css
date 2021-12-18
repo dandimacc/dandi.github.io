@@ -248,7 +248,7 @@ section .title::after {
 .portofolio .title::after,
 .contact .title::after  {
   background: #111;
-  content: 'during college';
+  content: 'previous career';
 }
 .portofolio .porto-content .card {
   width: calc(33% - 20px);
@@ -293,7 +293,7 @@ section .title::after {
 .portofolio .title::after,
 .contact .title::after  {
   background: #111;
-  content: 'during college';
+  content: 'previous career';
 }
 .portofolio .porto-content .card {
   width: calc(33% - 20px);
@@ -388,20 +388,20 @@ section .title::after {
 .skills .skills-content .right .office::before {
   width: 90%;
 }
-.skills .skills-content .right .visio::before {
+.skills .skills-content .right .point of sale::before {
   width: 80%;
 }
 .skills .skills-content .right .marketing::before {
-  width: 70%;
+  width: 80%;
 }
-.skills .skills-content .right .manufacturing::before {
+.skills .skills-content .right .supply chain management::before {
   width: 70%;
 }
 .skills .skills-content .right .premier::before {
-  width: 60%;
+  width: 70%;
 }
 .skills .skills-content .right .sap::before {
-  width: 50%;
+  width: 60%;
 }
 
 /* teams section styling */
