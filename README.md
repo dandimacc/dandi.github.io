@@ -1,1 +1,1 @@
-# dandimacc.github.io
+# dandi.github.io
