@@ -394,13 +394,13 @@ section .title::after {
 .skills .skills-content .right .corporate::before {
   width: 100%;
 }
-.skills .skills-content .right .ana::before {
+.skills .skills-content .right .project::before {
   width: 90%;
 }
-.skills .skills-content .right .premier::before {
+.skills .skills-content .right .analytic::before {
   width: 80%;
 }
-.skills .skills-content .right .sap::before {
+.skills .skills-content .right .networking::before {
   width: 80%;
 }
 
