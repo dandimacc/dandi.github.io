@@ -385,23 +385,23 @@ section .title::after {
   top: 0;
   background: #dd2c00;
 }
-.skills .skills-content .right .office::before {
+.skills .skills-content .right .development::before {
+  width: 100%;
+}
+.skills .skills-content .right .operations::before {
+  width: 100%;
+}
+.skills .skills-content .right .corporate::before {
+  width: 100%;
+}
+.skills .skills-content .right .ana::before {
   width: 90%;
 }
-.skills .skills-content .right .sale::before {
-  width: 80%;
-}
-.skills .skills-content .right .analytics::before {
-  width: 80%;
-}
-.skills .skills-content .right .management::before {
-  width: 70%;
-}
 .skills .skills-content .right .premier::before {
-  width: 70%;
+  width: 80%;
 }
 .skills .skills-content .right .sap::before {
-  width: 60%;
+  width: 80%;
 }
 
 /* teams section styling */
